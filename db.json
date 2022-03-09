@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "title": "Review 7 march",
+      "content": "Adding margin in delete and edit button // done\n\nAdd filter to filter only notes and emails \n\nAdding different component Bill\n\n1. Pencil Qty- 3 price/item - Rs 5.  total 15\n2. Eraser. 2. 4. 8\nTotal. 5  -  23",
+      "type": "Note",
+      "id": 2
+    },
+    {
+      "to": "abhi@iitism.ac.in",
+      "cc": "suraj@iitism.ac.in",
+      "type": "Email",
+      "title": "About Preregistration",
+      "body": "How to do pre-registration",
+      "id": 3
+    },
+    {
+      "content": [
+        {
+          "item": "A",
+          "qty": 3,
+          "price": 10
+        },
+        {
+          "item": "B",
+          "qty": 3,
+          "price": 10
+        }
+      ],
+      "title": "A",
+      "type": "Bill",
+      "id": 9
+    }
+  ]
+}
