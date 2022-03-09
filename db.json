@@ -17,11 +17,13 @@
     {
       "content": [
         {
+          "id": 1,
           "item": "A",
           "qty": 3,
           "price": 10
         },
         {
+          "id": 2,
           "item": "B",
           "qty": 3,
           "price": 10
